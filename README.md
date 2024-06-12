@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganga-0410&label=Profile%20views&color=0e75b6&style=flat" alt="ganga-0410" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganga-0410" alt="ganga-0410" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [ganga-0410.github.io/MyPortfolio/](ganga-0410.github.io/MyPortfolio/)
+- 👨‍💻 All of my projects are available at [https://github.com/Ganga-0410?tab=repositories](https://github.com/Ganga-0410?tab=repositories)
 
 - 📫 How to reach me **gangapiska0410@gmail.com**
 
