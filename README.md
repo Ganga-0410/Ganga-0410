@@ -17,6 +17,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ganga piska" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganga piska" height="30" width="40" /></a>
+
+<hr style="border:1px solid grey">
+
+<h3 align="left">Follow me:</h3>
 <a href="https://www.codechef.com/users/ganga_piska" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ganga_piska" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gangapiska" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gangapiska" height="30" width="40" /></a>
 </p>
