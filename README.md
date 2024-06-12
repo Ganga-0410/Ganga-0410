@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ganga Piska</h1>
 ✔️ I'm Ganga Piska, a Computer Engineering graduate from Shah and Anchor Kutchhi Engineering College, Mumbai, Class of 2024.
 
+
 ✔️ My passion lies in FrontEnd development, and I have a strong affinity for tackling Data Structures and Algorithms challenges.
 
 ✔️ I had the incredible opportunity to serve as a Project Trainee at the prestigious Bhabha Atomic Research Centre (BARC), where I gained valuable experience and insights .
