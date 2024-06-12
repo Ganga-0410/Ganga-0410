@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ganga Piska</h1>
-✔️ I'm Ganga Piska, a Computer Engineering graduate from Shah and Anchor Kutchhi Engineering College, Mumbai, Class of 2024.
-
-✔️ My passion lies in FrontEnd development, and I have a strong affinity for tackling Data Structures and Algorithms challenges.
-
-✔️ I had the incredible opportunity to serve as a Project Trainee at the prestigious Bhabha Atomic Research Centre (BARC), where I gained valuable experience and insights .
+✔️ I'm Ganga Piska, a Computer Engineering graduate from Shah and Anchor Kutchhi Engineering College, Mumbai, Class of 2024.<br>
+<br>
+✔️ My passion lies in FrontEnd development, and I have a strong affinity for tackling Data Structures and Algorithms challenges.<br>
+<br>
+✔️ I had the incredible opportunity to serve as a Project Trainee at the prestigious Bhabha Atomic Research Centre (BARC), where I gained valuable experience and insights.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganga-0410&label=Profile%20views&color=0e75b6&style=flat" alt="ganga-0410" /> </p>
 
