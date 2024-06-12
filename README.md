@@ -1,4 +1,11 @@
-## Hi there 👋
+Hi 👋, Glad you're here! 🎉
+🌱 About myself
+
+✔️ I am Ganga Piska, currently pursuing my bachelors from Shah And Anchor Kutchhi Engineering College, Mumbai in Computer Engineering.
+
+✔️ My passion lies in FrontEnd development, and I have a strong affinity for tackling Data Structures and Algorithms challenges.
+
+✔️ I had the incredible opportunity to serve as a Project Trainee at the prestigious Bhabha Atomic Research Centre (BARC), where I gained valuable experience and insights..
 
 <!--
 **Ganga-0410/Ganga-0410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
