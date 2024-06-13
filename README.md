@@ -6,7 +6,7 @@
 ✔️ I had the incredible opportunity to serve as a Project Trainee at the prestigious Bhabha Atomic Research Centre (BARC), where I gained valuable experience and insights.
 <br>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganga-0410&label=Profile%20views&color=0e75b6&style=flat" alt="ganga-0410" /> </p>
+![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ganga-0410?tab=repositories](https://github.com/Ganga-0410?tab=repositories)
 
