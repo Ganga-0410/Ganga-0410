@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Software Engineer @Capgemini .<br><br>👥 I’m looking to collaborate on: Data analytics projects, Power BI dashboards and making data-driven decisions.<br><br>🌱 I’m currently learning: Data & Business Analytics, Advanced SQL, and Data Visualization using Power BI, Tableau, and Python libraries to enhance my expertise and transition into data-driven roles.<br><br>💬 Ask me about: SQL, PL/SQL, Power BI, and Data Visualization.<br><br>⚡ Fun fact: I enjoy decoding complex datasets and turning them into actionable insights!
+🔭 I’m currently working on: Software Engineer @Capgemini .<br><br>👥 I'm currently exploring role like Data Analyst / Business Analyst, to create Power BI dashboards and to make data-driven decisions.<br><br>🌱 I’m currently learning: Data & Business Analytics, Advanced SQL, and Data Visualization using Power BI, Tableau, Python libraries and Basics of Machine Learning to enhance my expertise and transition into data-driven roles.<br><br>💬 Ask me about: SQL, PL/SQL, Power BI, and Data Visualization, EDA, Model Training, Model Evaluation.<br><br>⚡ Fun fact: I enjoy decoding complex datasets and turning them into actionable insights!
 
 
 ## 🌐 Socials:
